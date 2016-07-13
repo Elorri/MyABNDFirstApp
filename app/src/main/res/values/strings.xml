@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyABNDFirstApp</string>
+    <string name="name">The espuguette\'s refuge</string>
+    <string name="address">Refuge de Montagne, Cirque de Gavarnie, Parc National des Pyrenees, France</string>
+    <string name="phone">+335 62 92 40 63</string>
+    <string name="description">The Espuguettes refuge is 2027m high. It\'s reachable after a 2
+        hours hike from Gavarnie village. We serve plates and sandwich during the day. In the
+        evening dinner is served at 7pm.
+        Our rooms have 5 to 10 beds each and we count a total of 54 beds. Bed sheets are supplied.
+        Toilets and washbassin are available but no shower.
+    </string>
+</resources>
